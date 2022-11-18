@@ -33,7 +33,7 @@ def page_1():
     import numpy as np
     import pandas as pd
     import plotly.figure_factory as ff
-    import matplotlib.pyplot as plt
+    #import matplotlib.pyplot as plt
     import plotly.graph_objects as go
     #import seaborn as sns
 
