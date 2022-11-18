@@ -32,7 +32,7 @@ def page_1():
     import time
     import numpy as np
     import pandas as pd
-    import plotly.figure_factory as ff
+    #import plotly.figure_factory as ff
     #import matplotlib.pyplot as plt
     import plotly.graph_objects as go
     #import seaborn as sns
@@ -129,7 +129,7 @@ def page_2():
     import time
     import numpy as np
     import pandas as pd
-    import plotly.figure_factory as ff
+    #import plotly.figure_factory as ff
     import matplotlib.pyplot as plt
     import plotly.graph_objects as go
     #import seaborn as sns
@@ -187,7 +187,7 @@ def page_3():
     import time
     import numpy as np
     import pandas as pd
-    import plotly.figure_factory as ff
+    #import plotly.figure_factory as ff
     import matplotlib.pyplot as plt
     import plotly.graph_objects as go
     #import seaborn as sns
@@ -240,7 +240,7 @@ def model_predict():
     import time
     import numpy as np
     import pandas as pd
-    import plotly.figure_factory as ff
+    #import plotly.figure_factory as ff
     import matplotlib.pyplot as plt
     import plotly.graph_objects as go
     #import seaborn as sns
